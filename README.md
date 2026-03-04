@@ -5,7 +5,14 @@
 <h3 align="center">🦁 The Plant Lion</h3>
 
 <p align="center">
-Software Developer 
+🌱 Software Developer who loves clean code and strong logic <br>
+✨ Growing one project at a time
+</p>
+
+<p align="center">
+<a href="https://www.instagram.com/nanaa._.32/?hl=ar" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-nanaa._.32-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
 </p>
 
 <hr>
@@ -17,4 +24,3 @@ Software Developer
 ![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
