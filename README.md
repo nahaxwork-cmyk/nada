@@ -1,9 +1,3 @@
-<div align="center" width="50">
-
-
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
-
-</div>
 
 <hr>
 
@@ -11,7 +5,7 @@
 <h3 align="center">🦁 The Plant Lion</h3>
 
 <p align="center">
-Software Developer specialized in <b>C++</b>, <b>Python</b>, and <b>SQL</b>.
+Software Developer 
 </p>
 
 <hr>
